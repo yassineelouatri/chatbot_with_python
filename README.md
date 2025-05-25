@@ -1,6 +1,7 @@
 hi , that s the steps to execute my chatbot ! 
 
 1 . install the virtual environement : python -m venv <name>
+
 2 . activate this virtual environment with : 
 
   source <name>/bin/activate (for linux)
