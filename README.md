@@ -7,6 +7,7 @@ hi , that s the steps to execute my chatbot !
   source <name>/Scripts/activate (for windows - VS code)
 
 3 . execute the requirements : pip install -r requirements.txt
+
 4 . after this execution launch execution command for new.py file :
  python3 new.py
 
