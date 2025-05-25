@@ -5,6 +5,7 @@ hi , that s the steps to execute my chatbot !
 2 . activate this virtual environment with : 
 
   source <name>/bin/activate (for linux)
+
   source <name>/Scripts/activate (for windows - VS code)
 
 3 . execute the requirements : pip install -r requirements.txt
