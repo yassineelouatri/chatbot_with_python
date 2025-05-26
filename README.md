@@ -10,10 +10,12 @@ hi , that s the steps to execute my chatbot !
 
 3 . execute the requirements : pip install -r requirements.txt
 
-4 . after this execution launch execution command for new.py file :
+4 . change the file directory on the code to your clean directory on both files (new.py and chatbot.py) 
+
+5 . after this execution launch execution command for new.py file :
  python3 new.py
 
-5 . finally , launch execution command for chatbot.py file : 
+6 . finally , launch execution command for chatbot.py file : 
 python3 chatbot.py
 
 and that s it ! enjoy 
